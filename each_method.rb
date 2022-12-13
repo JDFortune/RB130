@@ -41,3 +41,5 @@ p each(arr) #{ |n| puts n * 2 }
 hash = {one: 1, two: 2, three: 3, four: 4}
 
 p each(hash) #{ |k, v| puts "Keys is #{k}; Value is #{v}"}
+
+puts 'Hello Dolly'
